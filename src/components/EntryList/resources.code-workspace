@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "resources",
+			"path": "../../../../../../Downloads/resources"
+		},
+		{
+			"name": "journal",
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}

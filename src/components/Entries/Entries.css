@@ -1,0 +1,18 @@
+.entries {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+    margin-bottom: 20px;
+  }
+  
+  .entries__link {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .entries__link:hover,
+  .entries__link:focus {
+    text-decoration: underline;
+  }
+  
